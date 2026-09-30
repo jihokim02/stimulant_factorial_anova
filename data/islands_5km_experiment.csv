@@ -1,0 +1,151 @@
+Name,Age,Gender,before_5km,after_5km,Methamphetamine,Sitting_outside
+Bindi,68,F,32,32.2,0,Y
+Brenda,55,F,21,22,10,N
+Gretel,20,F,25.2,28.3,50,Y
+Jasmin,70,F,21.4,19.7,0,N
+Tyr,31,M,23.9,24.8,10,Y
+Nana,32,F,29.5,29.4,50,N
+Nina,35,F,31.5,29.1,0,Y
+Murali,29,M,14.8,18.2,10,N
+Mai,27,F,22.4,25.1,50,Y
+Rachel,29,F,52,57,0,N
+Robin,30,M,37.3,35.2,10,Y
+Leon,41,M,44.4,49.4,50,N
+Sebastian,78,M,28.3,33.5,0,Y
+Ramsay,75,M,17.9,20.8,10,N
+Erik,55,M,25.4,28.7,50,Y
+Emma,21,F,20.3,21.7,0,N
+Gretel L,37,F,44.7,46.7,10,Y
+Amon,28,M,19.2,19.6,50,N
+Akira,61,M,35.2,39.1,0,Y
+David,29,M,20.4,23.6,10,N
+Beau,22,M,18.8,22.4,50,Y
+Francois,49,M,42.1,50.8,0,N
+Rida,47,F,29,27.2,10,Y
+Hanna,40,F,38.3,38,50,N
+Ulrich,23,M,40.8,51.5,0,Y
+Kaya,37,F,36.7,72.3,10,N
+Ole,36,M,36.7,39.2,50,Y
+Raum,38,M,54.4,61.6,0,N
+Sorena,56,F,36.6,35.2,10,Y
+Birgit,42,F,38.5,42.6,50,N
+Flavien Aubert,43,M,19.3,15.3,0,Y
+Mayra Basu,42,F,16.7,14.8,10,N
+Rithul Chaudhuri,50,M,15.1,12.2,50,Y
+Tristan Coehn,63,M,19,19,0,N
+Avril Connolly,32,F,19.1,15.7,10,Y
+Ketan Dhirwan,45,M,25.5,21.7,50,N
+Kieran Edwards,30,M,23.4,18.6,0,Y
+Noah Erikson,31,M,22.2,19.1,10,N
+Dionne Gagnon,101,F,27.6,22.3,50,Y
+Masato Hall,34,M,27.2,22.4,0,N
+Emaan Kaur,69,M,25.7,20.5,10,Y
+Krisha Khan,57,F,24.9,22.1,50,N
+Felix Kimura,84,M,26.6,19.1,0,Y
+Neysa Krishna,41,F,21.2,16.3,10,N
+Damini Kulkarni,75,F,21.2,18.4,50,Y
+Jagan Lingutla,68,M,17.8,15.3,0,N
+Daniel Lund,82,M,20.3,16.9,10,Y
+Rida Mallet,55,F,23.2,20.3,50,N
+Michelle McCarthy,28,F,23.9,19.6,0,Y
+Sian McCarthy,62,F,15.3,12.8,10,N
+Inesh Mehta,21,M,27.1,21.9,50,Y
+Mishka Ramanujan,40,F,18.4,15,0,N
+Chrystele Reynaud,63,F,19.6,15.2,10,Y
+Jeremy Sato,34,M,24.9,20.5,50,N
+Jonas Solberg,75,M,24.2,20.6,0,Y
+Zachary Sorensen,35,M,20.8,16.8,10,N
+Maxine Suzuki,26,F,18.4,13.9,50,Y
+Percy Suzuki,31,M,19.6,15.2,0,N
+Madison Watanabe,60,F,16.5,13.1,10,Y
+Rahas Zaman,67,M,28.9,27,50,N
+Justin Abbasi,45,M,39,36.7,0,Y
+Maalai Ahmad,38,F,38,34.5,10,N
+Drew Aitken,45,M,22.1,19.2,50,Y
+Dr Elsa Bager,58,F,33.4,24.8,0,N
+Lady Roselyne Barre,24,F,21.9,20.6,10,Y
+Karen Eklund,48,F,20,20.1,50,N
+Beau Blomgren,29,M,29.5,24.9,0,Y
+Lisa Blomgren,41,F,31,21.9,10,N
+Thurston Blomgren,26,M,27.6,26.8,50,Y
+Brayden Brown,32,M,31.5,29.6,0,N
+Katie Brown,26,F,17.7,18.8,10,Y
+Harvey Burke,51,M,33.5,27.5,50,N
+Kersin Carlsen,53,F,38.7,32.2,0,Y
+Laurie Chevalier,34,M,36.2,31.5,10,N
+Estelle Clement,22,F,34.8,27.5,50,Y
+Renaud Devaux,44,M,35.1,26.4,0,N
+Anton Gagnon,30,M,37.9,36.4,10,Y
+William Jones,51,M,30.7,29.9,50,N
+Kumi Kikuchi,24,F,24.3,22.1,0,Y
+Chahna Lingutla,45,F,32.9,34,10,N
+Itaru Maeda,23,M,32,31,50,Y
+Dr Kosuke Maeda,46,M,39.8,37.8,0,N
+Maja Mueller,54,F,38.1,37.2,10,Y
+Hideko Nishimura,73,F,31.3,29.1,50,N
+Prisha Pillai,40,F,32.1,25.8,0,Y
+Danny Sato,18,M,18.2,17.8,10,N
+Jackson Sato,56,M,31.2,23.6,50,Y
+Axel Solberg,29,M,18.9,19,0,N
+Arvid Sorensen,24,M,26.6,24.5,10,Y
+Eva Watanabe,51,F,44.1,33.8,50,N
+Helene Anand,43,F,24.9,27.5,0,N
+Manan Bhatt,61,M,24,24,10,Y
+Shin Brown,19,M,18.6,22.1,50,N
+DaminiChunduri,26,F,18.7,17.3,0,Y
+HannahMoore,19,F,10.9,15.6,10,N
+NoelRegan,26,M,17.3,16.4,50,Y
+JermaineSolberg,26,M,19.3,18.8,0,Y
+HugoWilson,37,M,22.7,18.1,10,N
+MishkaZaman,44,F,26.6,21.1,50,Y
+AnikaKumar,43,F,25.1,27.7,0,N
+ViktoriaCarlsen,20,F,24.3,28.1,10,Y
+JarrodEdwards,58,M,27.4,23.9,50,N
+LaetitiaFabre,20,F,24.5,28.4,0,Y
+AmyMcCarthy,19,F,34,36.6,10,N
+GemmaMcCarthy,60,F,32.4,29.7,50,Y
+StenOlsen,59,M,31.7,27,0,N
+TristanPrice,23,M,30.7,30.8,10,Y
+LeifSorensen,37,M,28.1,24.2,50,N
+OlsonSorensen,21,M,27.6,21.3,0,Y
+MollyWhite,18,F,18.1,22.4,10,N
+RileyCollins,88,M,16.3,20.1,50,Y
+JamieConnolly,35,M,15.7,17.8,0,N
+SimoneHall,37,F,25.6,24.8,10,Y
+RikoKimura,37,F,16.3,19.1,50,N
+OmiKoyama,31,F,56.2,55.3,0,Y
+RobinMcCarthy,60,M,19.2,15.3,10,N
+ColinPrice,59,M,29.1,31,50,Y
+LaharSaha,85,M,26,27.2,0,N
+ThurstonSolberg,50,M,39.3,39.8,10,Y
+ElsaSorensen,22,F,15.8,25.7,50,N
+Gunnar Reinhardt,32,M,36.1,41.6,0,Y
+Hakan Carlsen,44,M,39.1,47,10,N
+Emma Moore,23,F,29.1,33.4,50,Y
+Cameron Kimura,80,M,31.2,36,0,N
+Sonja Clausen,59,F,33.5,36.8,10,Y
+Arya Abbasi,29,F,43.3,50.8,50,N
+Erling Eklund,35,M,32.1,34.2,0,Y
+Klara Sorensen,21,F,36.9,44.5,10,N
+Jamie Morris,29,M,23,26.4,50,Y
+Manato Chiba,63,M,48.2,55.5,0,N
+Momoko Price,81,F,31.8,37,10,Y
+Michaela Edwards,79,F,40.2,46.7,50,N
+Miho Collins,56,F,27.4,29.6,0,Y
+Blandine Masson,53,F,38.2,45.1,10,N
+Lionel Benoit,33,M,23.6,24.8,50,Y
+Omala Mehta,18,F,32.3,37.3,0,N
+Lars Solberg,79,M,20.8,21.9,10,Y
+Malika Julien,18,M,31,35.4,50,N
+Nira Kumar,39,F,23.9,23.9,0,Y
+Lewis Morrison,19,M,18.1,19.5,10,N
+Elena Sorensen,21,F,15.7,14.6,50,Y
+Mathis Tamboli,62,M,26.5,31.1,0,N
+Aidan Morris,99,M,14.6,13.4,10,Y
+Gen Suzuki,82,M,9.1,9.2,50,N
+Justin Puri,38,M,18.1,18.2,0,Y
+Rithul Maharaj,24,M,18.1,19.3,10,N
+Kin Connolly,54,M,15.9,16.2,50,Y
+Shun Murphy,49,M,23.7,25.9,0,N
+Anthony Burke,33,M,17,16.8,10,Y
+Larisa Varadhan,72,F,16,16.7,50,N
